@@ -1,0 +1,14 @@
+{
+    "name": "acer/kprida",
+    "description": "Laporan Akhir KP",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Rida-uinsu",
+            "email": "afridayani55@gmail.com"
+        }
+    ]
+}
